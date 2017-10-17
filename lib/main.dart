@@ -119,7 +119,7 @@ class _DefaultPageState extends State<DefaultPage> with WidgetsBindingObserver {
 
     return new Scaffold(
       key: key,
-      appBar: new AppBar(title: new Text('Dublin Stations')),
+      appBar: new AppBar(title: new Text('Dublin Stations'), leading: new Text('')), // Add annoying leading element to add left padding.
       body: new Center(
         child: new ListView(
           shrinkWrap: false,
