@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![Image](,github/images/image1.png)
+![Image](.github/images/image1.png)
 
 ## Getting Started
 
